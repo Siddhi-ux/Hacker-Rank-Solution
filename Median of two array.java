@@ -7,6 +7,7 @@ public class Solution {
         
         Scanner sc = new Scanner(System.in);
         int n=sc.nextInt();
+        
         int[] num1 =new int[n];
             for(int i=0;i<n;i++){
                 num1[i]=sc.nextInt();
